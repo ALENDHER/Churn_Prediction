@@ -1,12 +1,13 @@
 # Customer Churn Prediction
 
-![IBM](https://img.shields.io/badge/IBM-Internship-blue)
-![Teamwork](https://img.shields.io/badge/Teamwork-8--Members-green)
-![Chatbot](https://img.shields.io/badge/Chatbot-IBM%20Watson-orange)
-![HTML](https://img.shields.io/badge/HTML-5-red)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-4-purple)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Library-orange)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)  
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-green)  
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-blue)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)  
+
 
 ## Project Overview
 
